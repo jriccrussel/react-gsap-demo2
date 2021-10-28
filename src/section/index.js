@@ -7,7 +7,7 @@ const Index = () => {
     return (
         <main>
             <Hero />
-            <Testimoial />
+            {/* <Testimoial /> */}
         </main>
     )
 }
